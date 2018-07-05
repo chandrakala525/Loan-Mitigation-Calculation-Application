@@ -1,0 +1,38 @@
+{
+	"EAD": [{
+		"ModelRun": "NAE",
+		"CCLoanNumber": "CC196001",
+		"CurrentApprisedValue": "EAD1500",
+		"NetAvailableEquity": 45000,
+		"EquityToValueRatio": 0.27,
+		"ClosingCost": 1000,
+		"FirstMortageBalanceRatio": 1.5
+	},
+	{
+		"ModelRun": "Test",
+            "CCLoanNumber": "CC196002",
+		"CurrentApprisedValue": "EAD1501",
+		"NetAvailableEquity": 35000,
+		"EquityToValueRatio": 0.4,
+		"ClosingCost": 6000,
+		"FirstMortageBalanceRatio": 3.0
+	},
+	{
+		"ModelRun": "SOPAC Review",
+            "CCLoanNumber": "CC196003",
+		"CurrentApprisedValue": "EAD1502",
+		"NetAvailableEquity": 15000,
+		"EquityToValueRatio": 0.37,
+		"ClosingCost": 6000,
+		"FirstMortageBalanceRatio": 2.7
+	},
+	{
+		"ModelRun": "Tax",
+            "CCLoanNumber": "CC196004",
+		"CurrentApprisedValue": "EAD1503",
+		"NetAvailableEquity": 40000,
+		"EquityToValueRatio": 0.1,
+		"ClosingCost": 1500,
+		"FirstMortageBalanceRatio": 1.8
+	}]
+}
